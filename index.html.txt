@@ -178,7 +178,7 @@
   <header>
     <div class="container">
       <nav>
-        <img src="logo.png" alt="CONGO VIBES TV" style="height:40px">
+        <img src="logo.png.png" alt="CONGO VIBES TV" style="height:40px">
         <ul>
           <li><a href="#accueil">Accueil</a></li>
           <li><a href="#apropos">À propos</a></li>
